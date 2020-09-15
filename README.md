@@ -73,20 +73,20 @@ Successfully tested on the following bare-metal Windows versions:
 
 <a id="6">[6]</a> [Github - Antivmdetection](https://github.com/nsmfoo/antivmdetection)
 
-<a id="7">[7]</a> [Anti-Virtualization Malware](https://www.deepinstinct.com/2019/10/29/malware-evasion-techniques-part-2-anti-vm-blog/)
+<a id="7">[7]</a> [Deep Instinct - Anti-Virtualization Malware](https://www.deepinstinct.com/2019/10/29/malware-evasion-techniques-part-2-anti-vm-blog/)
 
-<a id="8">[8]</a> [Anti-VM and Anti-Sandbox Explained](https://www.cyberbit.com/blog/endpoint-security/anti-vm-and-anti-sandbox-explained/)
+<a id="8">[8]</a> [Cyberbit - Anti-VM and Anti-Sandbox Explained](https://www.cyberbit.com/blog/endpoint-security/anti-vm-and-anti-sandbox-explained/)
 
-<a id="9">[9]</a> [GuLoader AntiVM Techniques](https://blog.vincss.net/2020/05/re014-guloader-antivm-techniques.html)
+<a id="9">[9]</a> [VinCSS Blog - GuLoader AntiVM Techniques](https://blog.vincss.net/2020/05/re014-guloader-antivm-techniques.html)
 
-<a id="10">[10]</a> [Collection of Anti-Malware Analysis Tricks](https://www.prodefence.org/collection-anti-malware-analysis-tricks/)
+<a id="10">[10]</a> [Prodefence - Collection of Anti-Malware Analysis Tricks](https://www.prodefence.org/collection-anti-malware-analysis-tricks/)
 
-<a id="11">[11]</a> [Anti VM and Anti Sandbox techniques in Themida and VMProtect](https://rvsec0n.wordpress.com/2019/09/15/anti-vm-and-anti-sandbox-techniques-in-themida-and-vmprotect/)
+<a id="11">[11]</a> [rvsec0n - Anti VM and Anti Sandbox techniques in Themida and VMProtect](https://rvsec0n.wordpress.com/2019/09/15/anti-vm-and-anti-sandbox-techniques-in-themida-and-vmprotect/)
 
-<a id="12">[12]</a> [anti-VM vmware](https://code13.tistory.com/145)
+<a id="12">[12]</a> [code13 Blog - anti-VM vmware](https://code13.tistory.com/145)
 
-<a id="13">[13]</a> [Internet Security Threat Report Volume 24 | February 2019](https://docs.broadcom.com/doc/istr-24-2019-en)
+<a id="13">[13]</a> [Symantec - Internet Security Threat Report Volume 24 | February 2019](https://docs.broadcom.com/doc/istr-24-2019-en)
 
-<a id="14">[14]</a> [Trends of anti-analysis operations of malwares observed in API call logs](https://tsukuba.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=46267&item_no=1&page_id=13&block_id=83)
+<a id="14">[14]</a> [University of Tsukuba - Trends of anti-analysis operations of malwares observed in API call logs](https://tsukuba.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=46267&item_no=1&page_id=13&block_id=83)
 
-<a id="15">[15]</a> [Malware Dynamic Analysis Evasion Techniques: A Survey](https://arxiv.org/pdf/1811.01190.pdf)
+<a id="15">[15]</a> [ Amirkabir University of Technology - Malware Dynamic Analysis Evasion Techniques: A Survey](https://arxiv.org/pdf/1811.01190.pdf)
