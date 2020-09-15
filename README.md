@@ -89,4 +89,4 @@ Successfully tested on the following bare-metal Windows versions:
 
 <a id="14">[14]</a> [Trends of anti-analysis operations of malwares observed in API call logs](https://tsukuba.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=46267&item_no=1&page_id=13&block_id=83)
 
-<a id="14">[14]</a> [Malware Dynamic Analysis Evasion Techniques: A Survey](https://arxiv.org/pdf/1811.01190.pdf)
+<a id="15">[15]</a> [Malware Dynamic Analysis Evasion Techniques: A Survey](https://arxiv.org/pdf/1811.01190.pdf)
