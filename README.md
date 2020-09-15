@@ -39,7 +39,7 @@ optional arguments:
 | [Pafish](https://github.com/a0rtega/pafish/tree/master/pafish) - Before | [Pafish](https://github.com/a0rtega/pafish/tree/master/pafish) - After running *fsa.py* |
 |:-:|:-:|
 | <img style="float: left;" src="image/pafish_before.png"> | <img style="float: right;" src="image/pafish_after_fsa.png"> |
-| **[Al-khaser](https://github.com/LordNoteworthy/al-khaser) - Before** | **[Al-khaser](https://github.com/LordNoteworthy/al-khaser) - after running **fsa.py**** |
+| **[Al-khaser](https://github.com/LordNoteworthy/al-khaser) - Before** | **[Al-khaser](https://github.com/LordNoteworthy/al-khaser) - after running *fsa.py*** |
 | <img style="float: left;" src="image/al-khaser_before.png"> | <img style="float: right;" src="image/al-khaser_after_fsa.png"> |
 
 ## Testing against malware samples
