@@ -1,0 +1,38 @@
+# Folders to create. Must end with "\"
+%Program Files%\Oracle\VirtualBox Guest Additions\
+%ProgramW6432%\Oracle\VirtualBox Guest Additions\
+# Dummy files to create
+%Program Files%\Oracle\VirtualBox Guest Additions\DIFxAPI.dll
+%Program Files%\Oracle\VirtualBox Guest Additions\uninst.exe
+%Program Files%\Oracle\VirtualBox Guest Additions\VBoxControl.exe
+%Program Files%\Oracle\VirtualBox Guest Additions\VBoxDisp.dll
+%Program Files%\Oracle\VirtualBox Guest Additions\VBoxDrvInst.exe
+%Program Files%\Oracle\VirtualBox Guest Additions\VBoxGuest.cat
+%Program Files%\Oracle\VirtualBox Guest Additions\VBoxGuest.inf
+%Program Files%\Oracle\VirtualBox Guest Additions\VBoxGuest.sys
+%Program Files%\Oracle\VirtualBox Guest Additions\VBoxMouse.cat
+%Program Files%\Oracle\VirtualBox Guest Additions\VBoxMouse.inf
+%Program Files%\Oracle\VirtualBox Guest Additions\VBoxMouse.sys
+%Program Files%\Oracle\VirtualBox Guest Additions\VBoxTray.exe
+%Program Files%\Oracle\VirtualBox Guest Additions\VBoxVideo.cat
+%Program Files%\Oracle\VirtualBox Guest Additions\VBoxVideo.inf
+%Program Files%\Oracle\VirtualBox Guest Additions\VBoxVideo.sys
+%Program Files%\Oracle\VirtualBox Guest Additions\VBoxWHQLFake.exe
+%SYSTEM32%\VBoxDisp.dll
+%SYSTEM32%\VBoxHook.dll
+%SYSTEM32%\vboxoglarrayspu.dll
+%SYSTEM32%\vboxoglcrutil.dll
+%SYSTEM32%\vboxoglerrorspu.dll
+%SYSTEM32%\vboxoglfeedbackspu.dll
+%SYSTEM32%\vboxoglpackspu.dll
+%SYSTEM32%\vboxoglpassthroughspu.dll
+%SYSTEM32%\VBoxService.exe
+%SYSTEM32%\VBoxTray.exe
+%SYSTEM32%\VBoxControl.exe
+%SYSTEM32%\VBoxDrv.sys
+%SYSTEM32%\VBoxMRXNP.dll
+%SYSTEM32%\VBoxOGL.dll
+%DRIVERS%\VBoxMouse.sys
+%DRIVERS%\VBoxGuest.sys
+%DRIVERS%\VBoxSF.sys
+%DRIVERS%\VBoxVideo.sys

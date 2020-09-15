@@ -1,0 +1,63 @@
+# Folders to create. Must end with "\"
+%ProgramData%\VMware\RawdskCompatibility\virtual\
+%ProgramData%\VMware\RawdskCompatibility\native\
+%ProgramData%\VMware\logs\
+%ProgramData%\VMware\VMware Tools\Unity Filters\
+%ProgramData%\VMware\VMware VGAuth\aliasStore\
+%ProgramData%\VMware\VMware VGAuth\msgCatalogs\messages\
+%ProgramW6432%\VMware\VMware Tools
+%Program Files%\VMware\VMware Tools\messages\
+%Program Files%\VMware\VMware Tools\plugins\
+%Program Files%\VMware\VMware Tools\VMWare VGAuth\
+%Program Files%\VMware\VMware Tools\win32\
+%Program Files%\VMware\VMware Tools\win64\
+%Program Files%\Common Files\VMware\Drivers\
+%Program Files%\Common Files\VMware\InstallerCache\
+# Dummy files to create
+%ProgramData%\VMware\VMware VGAuth\vgauth.conf
+%Program Files%\VMware\VMware Tools\vmtoolsd.exe
+%Program Files%\VMware\VMware Tools\vmtools.dll
+%Program Files%\VMware\VMware Tools\VMwareHostOpen.exe
+%Program Files%\VMware\VMware Tools\rvmSetup.exe
+%Program Files%\VMware\VMware Tools\rvmSetup.exe
+%Program Files%\VMware\VMware Tools\VMWare VGAuth\VGAuthCLI.exe
+%Program Files%\VMware\VMware Tools\VMWare VGAuth\VGAuthService.exe
+%Program Files%\VMware\VMware Tools\VMWare VGAuth\VMwareAliasImport.exe
+%SYSTEM32%\vm3dco.dll
+%SYSTEM32%\vm3ddevapi64-debug.dll
+%SYSTEM32%\vm3ddevapi64-release.dll
+%SYSTEM32%\vm3ddevapi64-stats.dll
+%SYSTEM32%\vm3ddevapi64.dll
+%SYSTEM32%\vm3dgl64.dll
+%SYSTEM32%\vm3dglhelper64.dll
+%SYSTEM32%\vm3dservice.exe
+%SYSTEM32%\vm3dum64-debug.dll
+%SYSTEM32%\vm3dum64-stats.dll
+%SYSTEM32%\vm3dum64.dll
+%SYSTEM32%\vm3dum64_10-debug.dll
+%SYSTEM32%\vm3dum64_10-stats.dll
+%SYSTEM32%\vm3dum64_10.dll
+%SYSTEM32%\vm3dum64_loader.dll
+%SYSTEM32%\vmGuestLib.dll
+%SYSTEM32%\vmGuestLibJava.dll
+%SYSTEM32%\vmhgfs.dll
+%SYSTEM32%\VMWSU.DLL
+%SYSTEM32%\vsocklib.dll
+%DRIVERS%\vmmouse.sys
+%DRIVERS%\vmhgfs.sys
+%DRIVERS%\vm3dmp.sys
+%DRIVERS%\vm3dmp-stat.sys
+%DRIVERS%\vm3dmp-debug.sys
+%DRIVERS%\vm3dmp_loader.sys
+%DRIVERS%\vsock.sys
+%DRIVERS%\vmci.sys
+%DRIVERS%\vmmemctl.sys
+%DRIVERS%\vmrawdsk.sys
+%DRIVERS%\vmusbmouse.sys
+%DRIVERS%\vmmouse.sys
+%DRIVERS%\vmnet.sys
+%DRIVERS%\vmusb.sys
+%DRIVERS%\vmx86.sys
+%DRIVERS%\vmkdb.sys
+%DRIVERS%\vmnetuserif.sys
+%DRIVERS%\vmnetadapter.sys

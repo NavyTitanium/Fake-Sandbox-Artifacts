@@ -1,0 +1,6 @@
+# Key, Subkey, Value to set. Must be in HKLM
+# Make sure the key already exists first, or add it to \registry\virtualbox.txt
+HKLM\HARDWARE\DESCRIPTION\System,SystemBiosVersion,VBOX
+HKLM\HARDWARE\DESCRIPTION\System,VideoBiosVersion,Oracle VM VirtualBox
+HKLM\HARDWARE\DESCRIPTION\System,SystemBiosDate,06/23/99
+HKLM\HARDWARE\DESCRIPTION\System,Identifier,VBOX

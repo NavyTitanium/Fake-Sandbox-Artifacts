@@ -1,0 +1,2 @@
+# Service Name, Display Name
+VBoxService,VirtualBox Guest Additions Service

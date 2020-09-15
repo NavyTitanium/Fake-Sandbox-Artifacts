@@ -1,0 +1,3 @@
+\\.\pipe\vgauth-service
+\\.\pipe\vmci
+\\.\pipe\HGFS

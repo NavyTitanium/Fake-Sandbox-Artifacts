@@ -1,0 +1,6 @@
+# Key, Subkey, Value to set. Must be in HKLM
+# Make sure the key already exists first, or add it to \registry\vmware.txt
+HKLM\HARDWARE\DESCRIPTION\System\BIOS\,SystemManufacturer,VMware, Inc.
+HKLM\HARDWARE\DESCRIPTION\System\BIOS\,SystemProductName,VMware Virtual Platform
+HKLM\SYSTEM\ControlSet001\Control\SystemInformation,SystemManufacturer,VMware, Inc.
+HKLM\SYSTEM\ControlSet001\Control\SystemInformation,SystemProductName,VMware Virtual Platform

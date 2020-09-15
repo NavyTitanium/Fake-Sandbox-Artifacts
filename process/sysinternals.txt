@@ -1,0 +1,9 @@
+tcpview.exe
+autoruns.exe
+autorunsc.exe
+filemon.exe
+procmon.exe
+regmon.exe
+procexp.exe
+procexp64.exe
+Procmon64.exe

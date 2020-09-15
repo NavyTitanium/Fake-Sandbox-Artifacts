@@ -1,0 +1,8 @@
+# Folders to create. Must end with "\"
+%Program Files%\Qemu-ga\
+%Program Files%\Qemu-ga\qemu-ga.exe
+# Dummy files to create
+%ProgramData%\qemu-ga\qga.state
+%DRIVERS%\balloon.sys
+%DRIVERS%\vioser.sys
+%DRIVERS%\vioscsi.sys

@@ -1,0 +1,4 @@
+# Service Name, Display Name
+VGAuthService,VMware Alias Manager and Ticket Service
+vmvss,VMware Snapshot Provider
+VMTools,VMware Tools

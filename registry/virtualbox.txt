@@ -1,0 +1,22 @@
+HKLM\HARDWARE\ACPI\DSDT\VBOX__\VBOXBIOS
+HKLM\HARDWARE\ACPI\FADT\VBOX__\VBOXFACP
+HKLM\HARDWARE\ACPI\RSDT\VBOX__\VBOXXSDT
+HKLM\SYSTEM\CurrentControlSet\Enum\PCI\VEN_80EE&DEV_CAFE&SUBSYS_00000000&REV_00
+HKLM\SYSTEM\CurrentControlSet\Enum\PCI\VEN_80EE&DEV_BEEF&SUBSYS_040515AD&REV_00
+HKLM\SYSTEM\CurrentControlSet\Enum\IDE\DiskVBOX_HARDDISK___________________________1.0_____
+HKLM\SYSTEM\CurrentControlSet\Enum\IDE\CdRomVBOX_CD-ROM_____________________________1.0_____
+HKLM\SYSTEM\ControlSet001\Enum\IDE\DiskVBOX_HARDDISK___________________________1.0_____
+HKLM\SYSTEM\ControlSet001\Enum\IDE\CdRomVBOX_CD-ROM_____________________________1.0_____
+HKLM\SYSTEM\CurrentControlSet\Services\VBox
+HKLM\SOFTWARE\Oracle\VirtualBox Guest Additions
+HKLM\SYSTEM\CurrentControlSet\Services\VBoxGuest
+HKLM\SYSTEM\CurrentControlSet\Services\VBoxMouse
+HKLM\SYSTEM\CurrentControlSet\Services\VBoxSF
+HKLM\SYSTEM\CurrentControlSet\Services\VBoxService
+HKLM\SYSTEM\CurrentControlSet\Services\VBoxVideo
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\OpenGLDrivers\VBoxOGL
+HKLM\SYSTEM\ControlSet001\Services\VBoxGuest
+HKLM\SYSTEM\ControlSet001\Services\VBoxMouse
+HKLM\SYSTEM\ControlSet001\Services\VBoxService
+HKLM\SYSTEM\ControlSet001\Services\VBoxSF
+HKLM\SYSTEM\ControlSet001\Services\VBoxVideo

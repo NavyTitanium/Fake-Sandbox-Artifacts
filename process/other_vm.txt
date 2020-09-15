@@ -1,0 +1,6 @@
+vmsrvc.exe
+vmusrvc.exe
+prl_cc.exe
+prl_tools.exe
+xenservice.exe
+qemu-ga.exe

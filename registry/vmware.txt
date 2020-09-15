@@ -1,0 +1,27 @@
+HKLM\SOFTWARE\VMware, Inc.
+HKLM\SOFTWARE\VMware, Inc.\VMware Tools
+HKLM\SOFTWARE\VMWare\VMTools
+HKLM\HARDWARE\ACPI\DSDT\PTLTD_
+HKLM\SYSTEM\CurrentControlSet\Enum\SCSI\VMware
+HKLM\SYSTEM\CurrentControlSet\Services\VMware
+HKLM\SYSTEM\CurrentControlSet\Services\vmci
+HKLM\SYSTEM\CurrentControlSet\Services\vmhgfs
+HKLM\SYSTEM\CurrentControlSet\Services\vmmouse
+HKLM\SYSTEM\CurrentControlSet\Services\vmvss
+HKLM\SYSTEM\CurrentControlSet\Services\vmusbmouse
+HKLM\SYSTEM\CurrentControlSet\Services\vmxnet
+HKLM\SYSTEM\CurrentControlSet\Services\VMTools
+HKLM\SYSTEM\CurrentControlSet\Services\VMMEMCTL
+HKLM\SYSTEM\CurrentControlSet\Services\VGAuthService
+HKLM\SYSTEM\CurrentControlSet\Services\vm3dmp
+HKLM\SYSTEM\CurrentControlSet\Services\vmrawdsk
+HKLM\SYSTEM\CurrentControlSet001\Services\vmmouse
+HKLM\SYSTEM\CurrentControlSet001\Services\VMMemCtl
+HKLM\SYSTEM\CurrentControlSet001\Services\vmci
+HKLM\SYSTEM\CurrentControlSet001\Services\vmhgfs
+HKLM\SYSTEM\CurrentControlSet001\Services\vmrawdsk
+HKLM\SYSTEM\CurrentControlSet001\Services\VMTools
+HKLM\SYSTEM\CurrentControlSet001\Services\vmusbmouse
+HKLM\SYSTEM\CurrentControlSet001\Services\VGAuthService
+HKLM\SYSTEM\CurrentControlSet\Enum\PCI\VEN_15AD&DEV_0405&SUBSYS_040515AD&REV_00
+HKLM\SYSTEM\CurrentControlSet\Enum\PCI\VEN_15AD&DEV_0740&SUBSYS_074015AD&REV_10

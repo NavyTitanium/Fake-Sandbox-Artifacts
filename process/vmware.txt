@@ -1,0 +1,7 @@
+vmtoolsd.exe
+VBoxTray.exe
+vmwareuser.exe
+VGAuthService.exe
+vmacthlp.exe
+vm3dservice.exe
+VBoxService.exe

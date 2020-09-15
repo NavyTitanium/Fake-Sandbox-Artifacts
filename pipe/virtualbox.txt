@@ -1,0 +1,4 @@
+\\.\pipe\VBoxMiniRdrDN
+\\.\pipe\VBoxMiniRdDN
+\\.\pipe\VBoxTrayIPC
+\\.\pipe\VBoxGuest
