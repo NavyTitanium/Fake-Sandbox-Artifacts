@@ -34,7 +34,7 @@ optional arguments:
                         Install and start dummy services using dummy-win-service_x64.exe. Requires elevated privileges
 ```
 
-## Testing agaisnt pafish and al-khaser
+## Testing against pafish and al-khaser
 
 | [Pafish](https://github.com/a0rtega/pafish/tree/master/pafish) - Before | [Pafish](https://github.com/a0rtega/pafish/tree/master/pafish) - After running *fsa.py* |
 |:-:|:-:|
