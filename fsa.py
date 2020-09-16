@@ -26,7 +26,8 @@ process_files = [
 registry_keys_files = [
     "registry\\other_vm.txt",
     "registry\\vmware.txt",
-    "registry\\virtualbox.txt"]
+    "registry\\virtualbox.txt",
+    "registry\\qemu.txt"]
 registry_values_files = [
     "registry\\modify\\vmware.txt",
     "registry\\modify\\virtualbox.txt"]
