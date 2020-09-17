@@ -119,6 +119,8 @@ def kill_dummy_procs(dummy_process_names):
 def get_dummy_procs(dummy_process_names):
     psutil.process_iter(attrs=None, ad_value=None)
     procs = []
+    
+    # This might crash on W7 because of a bug in the library. See https://github.com/giampaolo/psutil/issues/1770
     for proc in psutil.process_iter():
         try:
             processName = proc.name()
