@@ -5,7 +5,7 @@
 %ProgramData%\VMware\VMware Tools\Unity Filters\
 %ProgramData%\VMware\VMware VGAuth\aliasStore\
 %ProgramData%\VMware\VMware VGAuth\msgCatalogs\messages\
-%ProgramW6432%\VMware\VMware Tools
+%ProgramW6432%\VMware\VMware Tools\
 %Program Files%\VMware\VMware Tools\messages\
 %Program Files%\VMware\VMware Tools\plugins\
 %Program Files%\VMware\VMware Tools\VMWare VGAuth\
