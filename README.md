@@ -50,7 +50,7 @@ To be done
 
 For this script to trigger a positive fingerprinting from the malware sample, it has to know what constitutes the fingerprinting in the first place. However, the strategy here is simply to hit on many of those known checks as possible, hoping that at least one artifact will be detected.
 
-Most advanced checks are looking for virtual hardware, memory or kernel hypervisor artifacts, which are hard to fake (e.g. Hardware IDs., loaded drivers/kernel objects).
+Most advanced checks are looking for virtual hardware, memory or kernel hypervisor artifacts, which are harder to fake (e.g. Hardware IDs., loaded drivers/kernel objects).
 
 ------------
 
