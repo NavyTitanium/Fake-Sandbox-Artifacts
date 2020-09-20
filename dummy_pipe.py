@@ -17,7 +17,7 @@ This dummy pipe server does nothing else.
 if len(sys.argv) < 2:
     exit("Arguments invalid")
 
-# Creates a pipe, Listen to it and sleep
+# Creates a pipe and listen to it
 def start_listen(pipe_name):
     pipe = win32pipe.CreateNamedPipe(
         pipe_name,
