@@ -12,7 +12,7 @@ It is estimated that 15-20% [[13]](#13) of malwares are aware of virtual machine
 ## Features 
 
 - Create dummy files, folders and registry entries used by virtualization softwares (VmWare,VirtualBox,Qemu,...) in guest operating systems 
-- Spawns dummy processes with names related to analysis tools and sanbox environments
+- Spawns dummy processes with names related to analysis tools and sandbox environments
 - Makes named pipes commonly used by virtual machines 
 - Installs and start dummy services typically found after installing VMware Tools/VBox Guest Additions Service
 
