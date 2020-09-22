@@ -46,7 +46,7 @@ optional arguments:
 
 | Malware Name | SHA256 | Without FSA | With FSA | Notes | Conclusion |
 | :-------------: |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| AgentTesla | [737ea...622fa](https://bazaar.abuse.ch/sample/737ea6edfdc8fa560104c62e87efa44f0ec600dfda82f0ac09aa2d9f6fc522fa/) | Malware established persistance via the Windows scheduler | No malicious behaviors observed | Modified registry values affects the malware behavior | :heavy_check_mark: |
+| :red_circle:AgentTesla | [737ea...622fa](https://bazaar.abuse.ch/sample/737ea6edfdc8fa560104c62e87efa44f0ec600dfda82f0ac09aa2d9f6fc522fa/) | Malware established persistance via the Windows scheduler | No malicious behaviors observed | Modified registry values affects the malware behavior | :heavy_check_mark: |
 
 To be continued
 
