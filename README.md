@@ -44,7 +44,8 @@ optional arguments:
 
 ## Testing against malware samples
 
-| SHA256 | Without FSA | With FSA | Notes | Conclusion |
+| SHA256 | Without FSA | With FSA | Conclusion |
+| :-------------: |:-------------:|:-------------:|:-------------:|
 | [737ea6edfdc8fa560104c62e87efa44f0ec600dfda82f0ac09aa2d9f6fc522fa](https://bazaar.abuse.ch/sample/737ea6edfdc8fa560104c62e87efa44f0ec600dfda82f0ac09aa2d9f6fc522fa/) | Malware established persistance via the Windows scheduler | No malicious behaviors observed | :heavy_check_mark: |
 
 To be continued
