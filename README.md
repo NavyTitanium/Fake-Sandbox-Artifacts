@@ -47,6 +47,7 @@ optional arguments:
 | Malware Name | Source | Without FSA | With FSA | Notes | Conclusion |
 | :-------------: |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | :red_circle:AgentTesla | [VirusTotal](https://www.virustotal.com/gui/file/737ea6edfdc8fa560104c62e87efa44f0ec600dfda82f0ac09aa2d9f6fc522fa/detection) [MalwareBazaar](https://bazaar.abuse.ch/sample/737ea6edfdc8fa560104c62e87efa44f0ec600dfda82f0ac09aa2d9f6fc522fa/) | Malware established persistance via the Windows scheduler | No malicious behaviors observed | Modified registry values affects the malware behavior | :heavy_check_mark: |
+| :red_circle:TrickBot | [VirusTotal](https://www.virustotal.com/gui/file/d5efc42f10137cb465bcc098f0a3f5440a86ae59059526c6fb4bfce46bf1be83/detection) [MalwareBazaar](https://bazaar.abuse.ch/sample/d5efc42f10137cb465bcc098f0a3f5440a86ae59059526c6fb4bfce46bf1be83/) | - | Malware contacted C2 IPs, downloaded modules networkDll64 & pwgrab64 | Anti-VM techniques used by Trickbot includes screen resolution | :x: |
 
 To be continued
 
