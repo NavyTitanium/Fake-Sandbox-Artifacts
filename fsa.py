@@ -158,7 +158,7 @@ def create_dummy_proc(processe_names):
         if not process.lower() in map(str.lower, running_process_names):
             if not os.path.isfile(temp_directory + "\\" + process):
                 shutil.copy(dummy_process, temp_directory + "\\" + process)               
-            os.system("powershell Start-Process "+temp_directory+"\\"+process+" -WindowStyle Hidden -ArgumentList '/N'")
+            os.system("powershell Start-Process '"+temp_directory+"\\"+process+"' -WindowStyle Hidden -ArgumentList '/N'")
         else:
             already_running += 1
 
