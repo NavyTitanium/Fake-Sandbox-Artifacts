@@ -346,7 +346,7 @@ def create_named_pipes(pipe_names):
     arguments = arguments.strip()
     if len(arguments) > 0:
         print("Creating " + str(len(arguments.split(" "))) + " pipes")
-        os.system("powershell Start-Process "+dir_path +"\\dummy_pipe.py -WindowStyle Hidden -ArgumentList '"+arguments +"'")
+        os.system("powershell Start-Process '"+dir_path +"\\dummy_pipe.py' -WindowStyle Hidden -ArgumentList '"+arguments +"'")
     else:
         print("All pipes are already started")
         return
