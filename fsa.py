@@ -158,7 +158,7 @@ def create_dummy_proc(processe_names):
         if not process.lower() in map(str.lower, running_process_names):
             if not os.path.isfile(temp_directory + "\\" + process):
                 shutil.copy(dummy_process, temp_directory + "\\" + process)               
-            os.system("powershell Start-Process "+temp_directory+"\\"+process+" -WindowStyle Hidden -ArgumentList '/N'")
+            os.system("powershell Start-Process '"+temp_directory+"\\"+process+"' -WindowStyle Hidden -ArgumentList '/N'")
         else:
             already_running += 1
 
@@ -346,7 +346,7 @@ def create_named_pipes(pipe_names):
     arguments = arguments.strip()
     if len(arguments) > 0:
         print("Creating " + str(len(arguments.split(" "))) + " pipes")
-        os.system("powershell Start-Process "+dir_path +"\\dummy_pipe.py -WindowStyle Hidden -ArgumentList '"+arguments +"'")
+        os.system("powershell Start-Process '"+dir_path +"\\dummy_pipe.py' -WindowStyle Hidden -ArgumentList '"+arguments +"'")
     else:
         print("All pipes are already started")
         return
