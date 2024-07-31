@@ -53,7 +53,7 @@ if os.name != "nt":
 if not os.path.isdir(system32path):
     exit("System32: invalid directory path")
 if not os.path.isdir(driverspath):
-    exit("System32\Divers: invalid directory path")
+    exit("System32\\Drivers: invalid directory path")
 if not os.path.isfile(dummy_process):
     exit("Dummy process: file not found")
 if not os.path.isdir(temp_directory):
